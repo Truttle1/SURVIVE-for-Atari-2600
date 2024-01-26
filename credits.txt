@@ -1,0 +1,8 @@
+Game written by Truttle1 in 6502 assembly for Atari 2600. I actually made this game for TI-84 back during my freshman year Geometry class, and I figured it would be easy enough to port to the Atari. The 2600 is honestly a very difficult system to develop for, so I guess that's the reason why its library got polluted with shovelware, which would probably include this game if it existed back during the Atari's lifetime.
+
+
+Resources used:
+
+2600 101 by Kirk Israel: https://alienbill.com/2600/101/
+Let's Make a Game by Darrel Spice Jr.: https://www.randomterrain.com/atari-2600-lets-make-a-game-spiceware-01.html
+STELLA Programming Guide by Steve Wright: https://alienbill.com/2600/101/docs/stella.html
